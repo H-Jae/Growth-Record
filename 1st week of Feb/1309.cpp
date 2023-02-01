@@ -19,7 +19,7 @@ int main() {
     cin >> N;
 
     dp[0][0] = 1;
-    dp[1][0] = 1;
+    dp[1][0] = 1; 
 
 
     for (int i = 1; i < N; ++i) {
