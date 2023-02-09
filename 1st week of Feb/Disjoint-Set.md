@@ -1,4 +1,4 @@
-# 자료 구조 : Disjoint-Set
+# Data Structure : Disjoint-Set
 
 Disjoint Set / Union - Find
 
